@@ -1,0 +1,1 @@
+为帮助部分同学查看android源码编译的过程简化，这里提供了android11的framework源码可以供下载，在android studio中直接打开android.ipr即可打开，对package不需要的可以删除掉，节约存储空间
